@@ -91,7 +91,7 @@ To run and interact with the MyToken contract, you'll need the following:
 
 **Batuigas John Alexis D**
 
-- GitHub: [github.com/codebreaker-pk](https://github.com/codebreaker-pk)
+- GitHub: [github.com/codebreaker-pk](https://github.com/Ksystemaq)
 - Email: 422004103@ntc.edu.ph
 ## License
 This project is licensed under the [MIT License](https://github.com/codebreaker-pk/MetacraftersAssesment2/blob/main/LICENSE).
